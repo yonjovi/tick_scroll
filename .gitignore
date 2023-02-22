@@ -1,0 +1,7 @@
+db.sqlite3
+share_scroller.db
+__pycache__/
+__pycache__
+sqlmodel_database.py
+venv/
+.idea/
